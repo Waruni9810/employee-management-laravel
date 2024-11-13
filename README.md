@@ -1,6 +1,6 @@
-# Employee Management System with Laravel
+# Employee Management System with Laravel and SB Admin Bootstrap
 
-This is a simple Laravel-based project that allows employees to sign up, log in, and access a dashboard. The system includes features like form validation, password visibility toggling, and a Bootstrap-designed user interface.
+This is a Laravel-based project integrated with the **SB Admin Bootstrap** theme. The project allows employees to sign up, log in, and access a user-friendly dashboard. It includes features like form validation, password visibility toggling, and responsive design.
 
 ## Features
 
@@ -9,15 +9,15 @@ This is a simple Laravel-based project that allows employees to sign up, log in,
 - **Password Visibility Toggle**: Includes an eye icon for showing/hiding passwords.
 - **Dashboard**: Displays user-specific information after a successful login.
 - **Form Validation**: Includes both client-side (JavaScript) and server-side (Laravel) validation.
+- **SB Admin Bootstrap Theme**: Provides a modern, professional, and responsive UI.
+- **Font Awesome Icons**: Integrated for better user experience.
 
+## Technologies Used
 
-## Requirements
-
-- PHP >= 8.0
-- Composer
-- Node.js & npm (for front-end assets)
-- Laravel 9.x or later
-- MySQL or any other database supported by Laravel
+- **Laravel 9.x**: For backend development.
+- **SB Admin Bootstrap**: For frontend styling and layout.
+- **Font Awesome**: For icons and user interaction.
+- **MySQL**: For database management.
 
 ## Installation
 
